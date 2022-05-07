@@ -3,6 +3,7 @@ layout: post
 title: Etsy Top Selling Shops With Time Series!
 ---
 
+
 Etsy, Inc. an American e-commerce company focused on handmade or vintage items and craft supplies. These items fall under a wide range of categories, including jewelry, bags, clothing, home décor and furniture, toys, art, as well as craft supplies and tool. There are millions of transactions being generated on the entire platoform. We are interested to get some understanding about how many sales are genrated over some fixed tiem intervals and who are the top performing shops in temrs of sales volume. We are also interested in which shops are are the most liked or followed shops, and how many customer reviews they receive. 
 
 However, to address the above questions is definitely not an easy task. Luckily, with our modern AI based web technology, we are able to track and monitor the most active shops on the platform on weekly or monthly basis frequency.
