@@ -9,7 +9,7 @@ Etsy, Inc. an American e-commerce company focused on handmade or vintage items a
 However, to address the above questions is definitely not an easy task. Luckily, with our modern AI based web technology, we are able to track and monitor the most active shops on the platform on weekly or monthly basis frequency.
 
 
-As briefly mentioned here already, [https://barkingdata.com/?etsy-top-shops/]
+As already briefly described here -- <a href="https://barkingdata.com/?etsy-top-shops/"> https://barkingdata.com/?etsy-top-shops/ </a>,
 Now let's take a more closer look at what and how we can track and extract from the shops. First, let's open a random shop's profile page, please note that this page is a public page and can be accessed by any ordinary PC desktop or mobile device user.
 
 ![image](https://user-images.githubusercontent.com/105116671/167261344-c5bf326d-a501-4e3c-b4fc-060942a8337d.png)
