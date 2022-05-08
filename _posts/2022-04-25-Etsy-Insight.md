@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Etsy Top Selling Shops With Time Series!
+description: "Use Web Mining Technology to Scrape Etsy Shops Data and Conduct Sales Volume and Other Interesting Metrics Analysis."
+category: Web Scraping
 ---
 
 
