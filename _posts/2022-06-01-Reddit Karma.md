@@ -4,6 +4,8 @@ title: FW: Reddit如何刷Karma，快速获取Karma
 description: "Reddit如何刷Karma，快速获取Karma"
 category: Web Scraping
 ---
+This article is from thrid party sources!
+
 Reddit作为USA的社交巨头，是全球top5 流量平台，每天有数亿活跃用户在线。Reddit也因此成为很多外贸人做营销推广的重点资源。
 
 但是很多新用户在发帖的时候会发现自己的帖子总是被block或者是发不出去。这个其实很正常，因为很多subreddit （我们简称为子社区）对发帖的账号有各种各样的限制，比如账号的年龄，账号的karma数等，再就是你帖子里的标题，格式，内容等等。总之，每个subreddit的检测标准都不完全一样，越是人多的子社区，限制条件越多越严格。
