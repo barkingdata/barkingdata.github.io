@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FW: Reddit如何刷Karma，快速获取Karma
+title: FW: Reddit Karma
 description: "Reddit如何刷Karma，快速获取Karma"
 category: Web Scraping
 ---
