@@ -1,7 +1,7 @@
 ---
 layout: post
-title: FW: Reddit Karma
-description: "How to Get Reddit Karmas Fast"
+title: Reddit如何刷Karma，快速获取Karma
+description: "Reddit如何刷Karma，快速获取Karma"
 category: Web Scraping
 ---
 This article is from thrid party sources!
